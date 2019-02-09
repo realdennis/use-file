@@ -1,6 +1,6 @@
 {
   "name": "use-file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React hook for getting FileReader's result.",
   "main": "./src/index.js",
   "keywords": [
