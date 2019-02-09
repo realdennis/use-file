@@ -1,0 +1,26 @@
+{
+  "name": "use-file",
+  "version": "0.0.1",
+  "description": "React hook for getting FileReader's result.",
+  "main": "./src/index.js",
+  "keywords": [
+    "react-hooks",
+    "useEventTarget",
+    "keyup",
+    "FileReader",
+    "events",
+    "cleanup"
+  ],
+  "author": "@realdennis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realdennis/use-file.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "use-event-target": "^1.1.2"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
