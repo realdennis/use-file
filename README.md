@@ -1,4 +1,5 @@
 # use-file
+*React hook for Filereader*
 
 It exports {src,reader}, using reader to read file & get src by hooks FileReader `loadend` event.
 
@@ -47,6 +48,6 @@ BlackBox {
 
 ## Why This has a dependency of `useEventTarget`
 
-This is a hooks infrastructure for easily package a event hooks.
+This is a hook infrastructure for easily package a event hooks.
 
 See more [useEventTarget](https://github.com/realdennis/useEventTarget/).
