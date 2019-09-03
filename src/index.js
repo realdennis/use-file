@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import useEventTarget from 'use-event-target';
-const useReader = useEventTarget(new FileReader());
+import createEventTargetHook from 'create-event-target-hook';
+const useReader = createEventTargetHook(new FileReader());
 export default (defaultPath = '') => {
   const [result, resultSetter] = useState(defaultPath);
   const [reader] = useReader('loadend', () => resultSetter(reader.result));

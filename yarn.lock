@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-use-event-target@^1.1.2:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/use-event-target/-/use-event-target-1.1.3.tgz#95e404f9dd22092344eab17b9b5c18c0d1cf538c"
-  integrity sha512-d2ClqiA7A5IB5NBycXCgfc9oRJlZspW/GjkyFSDzINpaoUQJVQ2ui9mqPWjxaRV9B2dBy3YLze/BPjE8BiEEEA==
+create-event-target-hook@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/create-event-target-hook/-/create-event-target-hook-1.2.2.tgz#43083aa597a292e82ea68ea0f2501aaf1e5ee8b0"
+  integrity sha512-ReLY5B/7hqkU+WlbbyQOzYtUCqDsBg75RjguLTpx3RI4WXGPqisePWtm+OpUZWLSZF109CIXVglT2Y3CSCuGOg==
